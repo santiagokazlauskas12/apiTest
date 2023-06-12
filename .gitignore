@@ -1,0 +1,12 @@
+# Node
+node_modules
+
+# VSCode
+.vscode/
+
+# Expo
+.expo/settings.json
+.expo/packager-info.json
+.expo/web
+.expo
+*.p12
